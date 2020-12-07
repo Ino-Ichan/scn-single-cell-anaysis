@@ -1,4 +1,5 @@
-data
+data/*.gz
+data/tar
 !data/.gitkeep
 !data/keepdir
 
