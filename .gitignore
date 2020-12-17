@@ -1,4 +1,6 @@
 data/*.gz
+data/*.csv
+data/GSE*
 data/tar
 !data/.gitkeep
 !data/keepdir
